@@ -1,0 +1,19 @@
+{
+  "name": "ownapi",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inesssik/OwnApi.git"
+  },
+  "author": "Den",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inesssik/OwnApi/issues"
+  },
+  "homepage": "https://github.com/inesssik/OwnApi#readme",
+  "description": ""
+}
